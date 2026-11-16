@@ -113,41 +113,40 @@ Further improvements may include AI response-time optimisation, interface polish
 
 ## Author
 
-S.Krishna Kashyap
+**S.Krishna Kashyap**
+
 ---
 
 # 📸 Project Screenshots
 
 ## 1. Overview Dashboard
 
-![Overview 1](screenshots/overview(1).png.png)
+![Overview 1](screenshots/overview%281%29.png)
 
-![Overview 2](screenshots/overview(2).png.png)
+![Overview 2](screenshots/overview%282%29.png)
 
-![Overview 3](screenshots/overview(3).png.png)
+![Overview 3](screenshots/overview%283%29.png)
 
 ## 2. Transaction Trends
 
-![Transaction Trends 1](screenshots/transaction%20trends(1).png.png)
+![Transaction Trends 1](screenshots/transaction%20trends%281%29.png)
 
-![Transaction Trends 2](screenshots/transaction%20trends(2).png.png)
+![Transaction Trends 2](screenshots/transaction%20trends%282%29.png)
 
-![Transaction Trends 3](screenshots/transaction%20trends(3).png.png)
+![Transaction Trends 3](screenshots/transaction%20trends%283%29.png)
 
-![Transaction Trends 4](screenshots/transaction%20trends(4).png.png)
+![Transaction Trends 4](screenshots/transaction%20trends%284%29.png)
 
 ## 3. Forecast Analysis
 
-![Forecast Analysis 1](screenshots/forecast%20analysis(1).png.png)
+![Forecast Analysis 1](screenshots/forecast%20analysis%281%29.png)
 
-![Forecast Analysis 2](screenshots/forecast%20analysis(2).png.png)
+![Forecast Analysis 2](screenshots/forecast%20analysis%282%29.png)
 
 ## 4. Raw Data Explorer
 
-![Raw Data](screenshots/raw%20data.png.png)
+![Raw Data](screenshots/raw%20data.png)
 
 ## 5. AI Assistant
 
-![AI Assistant](screenshots/AI%20Assistant.png.png)
-
----
+![AI Assistant](screenshots/AI%20Assistant.png)
